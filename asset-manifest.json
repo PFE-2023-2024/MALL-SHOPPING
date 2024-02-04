@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/PFE-2023-2024/MALL-SHOPPING.git/static/css/main.a010e7db.css",
-    "main.js": "/PFE-2023-2024/MALL-SHOPPING.git/static/js/main.3f570389.js",
-    "static/js/787.39f66828.chunk.js": "/PFE-2023-2024/MALL-SHOPPING.git/static/js/787.39f66828.chunk.js",
-    "static/media/Montassar Tayachi.png": "/PFE-2023-2024/MALL-SHOPPING.git/static/media/Montassar Tayachi.fdfb83454009bf2eedbb.png",
-    "static/media/Boutique.jpg": "/PFE-2023-2024/MALL-SHOPPING.git/static/media/Boutique.aee1956fc875ffe2a13e.jpg",
-    "static/media/E-Commerce-Shoppin.png": "/PFE-2023-2024/MALL-SHOPPING.git/static/media/E-Commerce-Shoppin.747bfec43a50028e2b99.png",
-    "static/media/profile.png": "/PFE-2023-2024/MALL-SHOPPING.git/static/media/profile.8973ad91ff3039f96c89.png",
-    "index.html": "/PFE-2023-2024/MALL-SHOPPING.git/index.html",
-    "main.a010e7db.css.map": "/PFE-2023-2024/MALL-SHOPPING.git/static/css/main.a010e7db.css.map",
-    "main.3f570389.js.map": "/PFE-2023-2024/MALL-SHOPPING.git/static/js/main.3f570389.js.map",
-    "787.39f66828.chunk.js.map": "/PFE-2023-2024/MALL-SHOPPING.git/static/js/787.39f66828.chunk.js.map"
+    "main.css": "/MontassarTayachi/MALL-SHOPPING.git/static/css/main.a22ae068.css",
+    "main.js": "/MontassarTayachi/MALL-SHOPPING.git/static/js/main.94d58a0c.js",
+    "static/js/787.39f66828.chunk.js": "/MontassarTayachi/MALL-SHOPPING.git/static/js/787.39f66828.chunk.js",
+    "static/media/Montassar Tayachi.png": "/MontassarTayachi/MALL-SHOPPING.git/static/media/Montassar Tayachi.fdfb83454009bf2eedbb.png",
+    "static/media/Boutique.jpg": "/MontassarTayachi/MALL-SHOPPING.git/static/media/Boutique.aee1956fc875ffe2a13e.jpg",
+    "static/media/E-Commerce-Shoppin.png": "/MontassarTayachi/MALL-SHOPPING.git/static/media/E-Commerce-Shoppin.747bfec43a50028e2b99.png",
+    "static/media/profile.png": "/MontassarTayachi/MALL-SHOPPING.git/static/media/profile.8973ad91ff3039f96c89.png",
+    "index.html": "/MontassarTayachi/MALL-SHOPPING.git/index.html",
+    "main.a22ae068.css.map": "/MontassarTayachi/MALL-SHOPPING.git/static/css/main.a22ae068.css.map",
+    "main.94d58a0c.js.map": "/MontassarTayachi/MALL-SHOPPING.git/static/js/main.94d58a0c.js.map",
+    "787.39f66828.chunk.js.map": "/MontassarTayachi/MALL-SHOPPING.git/static/js/787.39f66828.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a010e7db.css",
-    "static/js/main.3f570389.js"
+    "static/css/main.a22ae068.css",
+    "static/js/main.94d58a0c.js"
   ]
 }
