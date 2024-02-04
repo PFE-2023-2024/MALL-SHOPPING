@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/MALL-SHOPPING/static/css/main.cd84d582.css",
-    "main.js": "/MALL-SHOPPING/static/js/main.89adbaaf.js",
-    "static/js/787.39f66828.chunk.js": "/MALL-SHOPPING/static/js/787.39f66828.chunk.js",
+    "main.js": "/MALL-SHOPPING/static/js/main.0d5d2ce7.js",
+    "static/js/787.01d0a044.chunk.js": "/MALL-SHOPPING/static/js/787.01d0a044.chunk.js",
     "static/media/Montassar Tayachi.png": "/MALL-SHOPPING/static/media/Montassar Tayachi.fdfb83454009bf2eedbb.png",
     "static/media/Boutique.jpg": "/MALL-SHOPPING/static/media/Boutique.aee1956fc875ffe2a13e.jpg",
     "static/media/E-Commerce-Shoppin.png": "/MALL-SHOPPING/static/media/E-Commerce-Shoppin.747bfec43a50028e2b99.png",
     "static/media/profile.png": "/MALL-SHOPPING/static/media/profile.8973ad91ff3039f96c89.png",
     "index.html": "/MALL-SHOPPING/index.html",
     "main.cd84d582.css.map": "/MALL-SHOPPING/static/css/main.cd84d582.css.map",
-    "main.89adbaaf.js.map": "/MALL-SHOPPING/static/js/main.89adbaaf.js.map",
-    "787.39f66828.chunk.js.map": "/MALL-SHOPPING/static/js/787.39f66828.chunk.js.map"
+    "main.0d5d2ce7.js.map": "/MALL-SHOPPING/static/js/main.0d5d2ce7.js.map",
+    "787.01d0a044.chunk.js.map": "/MALL-SHOPPING/static/js/787.01d0a044.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd84d582.css",
-    "static/js/main.89adbaaf.js"
+    "static/js/main.0d5d2ce7.js"
   ]
 }
