@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/MontassarTayachi/MALL-SHOPPING.git/static/css/main.a22ae068.css",
-    "main.js": "/MontassarTayachi/MALL-SHOPPING.git/static/js/main.94d58a0c.js",
-    "static/js/787.39f66828.chunk.js": "/MontassarTayachi/MALL-SHOPPING.git/static/js/787.39f66828.chunk.js",
-    "static/media/Montassar Tayachi.png": "/MontassarTayachi/MALL-SHOPPING.git/static/media/Montassar Tayachi.fdfb83454009bf2eedbb.png",
-    "static/media/Boutique.jpg": "/MontassarTayachi/MALL-SHOPPING.git/static/media/Boutique.aee1956fc875ffe2a13e.jpg",
-    "static/media/E-Commerce-Shoppin.png": "/MontassarTayachi/MALL-SHOPPING.git/static/media/E-Commerce-Shoppin.747bfec43a50028e2b99.png",
-    "static/media/profile.png": "/MontassarTayachi/MALL-SHOPPING.git/static/media/profile.8973ad91ff3039f96c89.png",
-    "index.html": "/MontassarTayachi/MALL-SHOPPING.git/index.html",
-    "main.a22ae068.css.map": "/MontassarTayachi/MALL-SHOPPING.git/static/css/main.a22ae068.css.map",
-    "main.94d58a0c.js.map": "/MontassarTayachi/MALL-SHOPPING.git/static/js/main.94d58a0c.js.map",
-    "787.39f66828.chunk.js.map": "/MontassarTayachi/MALL-SHOPPING.git/static/js/787.39f66828.chunk.js.map"
+    "main.css": "/MALL-SHOPPING/static/css/main.cd84d582.css",
+    "main.js": "/MALL-SHOPPING/static/js/main.89adbaaf.js",
+    "static/js/787.39f66828.chunk.js": "/MALL-SHOPPING/static/js/787.39f66828.chunk.js",
+    "static/media/Montassar Tayachi.png": "/MALL-SHOPPING/static/media/Montassar Tayachi.fdfb83454009bf2eedbb.png",
+    "static/media/Boutique.jpg": "/MALL-SHOPPING/static/media/Boutique.aee1956fc875ffe2a13e.jpg",
+    "static/media/E-Commerce-Shoppin.png": "/MALL-SHOPPING/static/media/E-Commerce-Shoppin.747bfec43a50028e2b99.png",
+    "static/media/profile.png": "/MALL-SHOPPING/static/media/profile.8973ad91ff3039f96c89.png",
+    "index.html": "/MALL-SHOPPING/index.html",
+    "main.cd84d582.css.map": "/MALL-SHOPPING/static/css/main.cd84d582.css.map",
+    "main.89adbaaf.js.map": "/MALL-SHOPPING/static/js/main.89adbaaf.js.map",
+    "787.39f66828.chunk.js.map": "/MALL-SHOPPING/static/js/787.39f66828.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a22ae068.css",
-    "static/js/main.94d58a0c.js"
+    "static/css/main.cd84d582.css",
+    "static/js/main.89adbaaf.js"
   ]
 }
